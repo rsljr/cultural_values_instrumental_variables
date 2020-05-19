@@ -1,19 +1,18 @@
--   [[5-HTTLPR](#5HTTLPR)](#httlpr)
--   [[Genetic Distance](#distance)](#genetic-distance)
--   [[Pronoun Drop](#language1)](#pronoun-drop)
--   [[Linguistic
-    Fractionalization](#language2)](#linguistic-fractionalization)
--   [[Religion - Guiso 2003](#Religion1)](#religion---guiso-2003)
--   [[Religion - La Porta 1999](#Religion2)](#religion---la-porta-1999)
--   [[Unpaid parking tickets](#ticket)](#unpaid-parking-tickets)
--   [[Ethic and religion
-    Fractionalization](#fractionalization)](#ethic-and-religion-fractionalization)
--   [[Latitude](#latitude)](#latitude)
--   [[Temperature](#Temperature)](#temperature)
--   [[Settler Mortality](#mortality)](#settler-mortality)
+-   [5-HTTLPR](#httlpr)
+-   [Genetic Distance](#genetic-distance)
+-   [Pronoun Drop](#pronoun-drop)
+-   [Linguistic Fractionalization](#linguistic-fractionalization)
+-   [Religion - Guiso 2003](#religion---guiso-2003)
+-   [Religion - La Porta 1999](#religion---la-porta-1999)
+-   [Unpaid parking tickets](#unpaid-parking-tickets)
+-   [Ethic and religion
+    Fractionalization](#ethic-and-religion-fractionalization)
+-   [Latitude](#latitude)
+-   [Temperature](#temperature)
+-   [Settler Mortality](#settler-mortality)
 
-[5-HTTLPR](#5HTTLPR)
---------------------
+5-HTTLPR
+--------
 
 **N\_Studies**: Number of studies that authors used to find % S allele  
 **N**: Total Sample of studies  
@@ -28,8 +27,8 @@ gene. Proceedings of the Royal Society B: Biological Sciences,
 [Appendix
 2](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp1.doc)
 
-[Genetic Distance](#distance)
------------------------------
+Genetic Distance
+----------------
 
 **new\_gendist\_weighted**: It represents the expected genetic distance
 between two randomly selected individuals, one from each country  
@@ -55,8 +54,8 @@ and a given country as populations were in AD 1500
 Source: Spolaore, E., & Wacziarg, R. (2018). Ancestry and development:
 New evidence. Journal of Applied Econometrics, 33(5), 748-762.
 
-[Pronoun Drop](#language1)
---------------------------
+Pronoun Drop
+------------
 
 **1PS**: Number of First Personal Pronoun. 1 indicates multiples 1PS, 0
 otherwise  
@@ -70,8 +69,8 @@ Source: Kashima, E. S., & Kashima, Y. (1998). Culture and Language.
 Journal of Cross-Cultural Psychology, 29(3), 461–486.
 <a href="doi:10.1177/0022022198293005" class="uri">doi:10.1177/0022022198293005</a>
 
-[Linguistic Fractionalization](#language2)
-------------------------------------------
+Linguistic Fractionalization
+----------------------------
 
 **Linguistic Fractionalization**: The probability that two randomly
 selected individuals from a population belong to different linguistic.
@@ -80,8 +79,8 @@ Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., &
 Wacziarg, R. (2003). Fractionalization. Journal of Economic growth,
 8(2), 155-194.
 
-[Religion - Guiso 2003](#Religion1)
------------------------------------
+Religion - Guiso 2003
+---------------------
 
 **Catholic**: % of Catholic  
 **Protestant**: % of Protestant  
@@ -96,8 +95,8 @@ Source: Guiso, L., Sapienza, P., & Zingales, L. (2003). People’s opium?
 Religion and economic attitudes. Journal of monetary economics, 50(1),
 225-282.
 
-[Religion - La Porta 1999](#Religion2)
---------------------------------------
+Religion - La Porta 1999
+------------------------
 
 **Catholic**: % of Catholic in 1980  
 **Muslim**: % of Muslim in 1980
@@ -106,8 +105,8 @@ Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R.
 (1999). The quality of government. The Journal of Law, Economics, and
 Organization, 15(1), 222-279.
 
-[Unpaid parking tickets](#ticket)
----------------------------------
+Unpaid parking tickets
+----------------------
 
 **Year\_Ticket\_Average**: Average ticket value  
 **Number\_Diplomats**: Number of diplomats for a givem Country in New
@@ -117,8 +116,8 @@ Source: Fisman, R., & Miguel, E. (2007). Corruption, norms, and legal
 enforcement: Evidence from diplomatic parking tickets. Journal of
 Political economy, 115(6), 1020-1048.
 
-[Ethic and religion Fractionalization](#fractionalization)
-----------------------------------------------------------
+Ethic and religion Fractionalization
+------------------------------------
 
 **Source Ethnicity Data**: The source from the ethnicity data  
 **Date Ethnicity Data**: The year for the ethnicity data  
@@ -134,8 +133,8 @@ Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., &
 Wacziarg, R. (2003). Fractionalization. Journal of Economic growth,
 8(2), 155-194.
 
-[Latitude](#latitude)
----------------------
+Latitude
+--------
 
 **Latitude**: the absolute value of latitude in degrees divided by 90 to
 place it on a 0 to 1 scale. The latitude of each country was obtained
@@ -149,8 +148,8 @@ Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries
 produce so much more output per worker than others?. The quarterly
 journal of economics, 114(1), 83-116.
 
-[Temperature](#Temperature)
----------------------------
+Temperature
+-----------
 
 **Temperature\_Celcius**: Average daytime temperature of the country’s
 capital city
@@ -159,8 +158,8 @@ Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries
 produce so much more output per worker than others?. The quarterly
 journal of economics, 114(1), 83-116.
 
-[Settler Mortality](#mortality)
--------------------------------
+Settler Mortality
+-----------------
 
 **Settler\_Mortality\_Estimate** Mortality is potential settler
 mortality, measured in terms of deaths per annum per 1,000 “mean
