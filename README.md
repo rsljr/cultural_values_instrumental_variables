@@ -12,7 +12,8 @@ I organized this repository to facilitate access and avoid datasets to become un
 
 Source: Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of individualism–collectivism and the serotonin transporter gene. Proceedings of the Royal Society B: Biological Sciences, 277(1681), 529-537. [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.1650)
 
-genetic distance
+### Genetic Distance
+
 http://sites.tufts.edu/enricospolaore/research/
 
 ## Religion
@@ -69,7 +70,7 @@ Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so muc
 
 ### Temperature
 
-[Data]()  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#Temperature)
+[Data](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/geographic/temperature.csv)  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#Temperature)
 
 Source: Van de Vliert, E., Schwartz, S. H., Huismans, S. E., Hofstede, G., & Daan, S. (1999). Temperature, cultural masculinity, and domestic political violence: A cross-national study. Journal of Cross-Cultural Psychology, 30(3), 291-314. [Link](https://journals.sagepub.com/doi/10.1177/0022022199030003002)
 
