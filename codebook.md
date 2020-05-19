@@ -1,12 +1,3 @@
--   [Genetic](#genetic)
--   [Language](#language)
--   [Religion](#religion)
--   [Behavior](#behavior)
--   [Geographic](#geographic)
-
-Genetic
--------
-
 [5-HTTLPR](#5HTTLPR)
 
 **N\_Studies**: Number of studies that authors used to find % S allele  
@@ -21,9 +12,6 @@ gene. Proceedings of the Royal Society B: Biological Sciences,
 1](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp4.pdf),
 [Appendix
 2](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp1.doc)
-
-Language
---------
 
 [Pronoun Drop](#language1)
 
@@ -47,9 +35,6 @@ selected individuals from a population belong to different linguistic.
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., &
 Wacziarg, R. (2003). Fractionalization. Journal of Economic growth,
 8(2), 155-194.
-
-Religion
---------
 
 [Religion - Guiso 2003](#Religion1)
 
@@ -75,9 +60,6 @@ Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R.
 (1999). The quality of government. The Journal of Law, Economics, and
 Organization, 15(1), 222-279.
 
-Behavior
---------
-
 [Unpaid parking tickets](#ticket) **Year\_Ticket\_Average**: Average
 ticket value  
 **Number\_Diplomats**: Number of diplomats for a givem Country in New
@@ -98,9 +80,6 @@ national census data
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., &
 Wacziarg, R. (2003). Fractionalization. Journal of Economic growth,
 8(2), 155-194.
-
-Geographic
-----------
 
 [Latitude](#latitude)
 
