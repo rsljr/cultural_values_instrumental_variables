@@ -6,7 +6,9 @@ I organized this repository to facilitate access and avoid datasets to become un
 
 ## Genetic Factors
 
-[5-HTTLPR](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/genetic/5HTTLPR.csv)  
+### 5-HTTLPR
+
+[data](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/genetic/5HTTLPR.csv)  
 
 [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#5HTTLPR)
 
