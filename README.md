@@ -4,7 +4,7 @@ Nash and Patel's paper reviews the literature about instrumental variables in th
 
 I organized this repository to facilitate access to datasets used to create the instrumental variables discussed by Nash and Patel (2019) and also avoid that these datasets become unavailable. Each dataset has a link to the original study. Nash and Patel's table 9 reports how each institutional variable maps into cultural values and what studies have applied them.
 
-## Genetic Factors
+## Genetic
 
 ### 5-HTTLPR
 
@@ -46,7 +46,7 @@ Source: Kashima, E. S., & Kashima, Y. (1998). Culture and Language. Journal of C
 
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2003). Fractionalization. Journal of Economic growth, 8(2), 155-194. [Link](https://scholar.harvard.edu/files/alesina/files/fractionalization.pdf)
 
-## Behavioral Factors
+## Behavior
 
 ### Unpaid parking tickets
 
@@ -54,7 +54,7 @@ Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R
 
 Source: Fisman, R., & Miguel, E. (2007). Corruption, norms, and legal enforcement: Evidence from diplomatic parking tickets. Journal of Political economy, 115(6), 1020-1048. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/527495)
 
-## Demographic Factors
+## Demographic
 
 ### Ethic and religion Fractionalization
 
