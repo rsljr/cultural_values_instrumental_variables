@@ -53,28 +53,28 @@ Source: Fisman, R., & Miguel, E. (2007). Corruption, norms, and legal enforcemen
 
 ## Demographic Factors
 
-[Ethic and religion Fractionalization](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/demographic/ethnic_religion_Fractionalization.csv)
+### Ethic and religion Fractionalization
 
-[Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#fractionalization)
+[Data](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/demographic/ethnic_religion_Fractionalization.csv)  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#fractionalization)
 
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2003). Fractionalization. Journal of Economic growth, 8(2), 155-194. [Link](https://scholar.harvard.edu/files/alesina/files/fractionalization.pdf)
 
 ## Geographic
 
-[Latitude](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/geographic/latitute.csv)
+### Latitude
 
-[Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#latitude)
+[Data](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/geographic/latitute.csv)  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#latitude)
 
 Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so much more output per worker than others?. The quarterly journal of economics, 114(1), 83-116. [Link](http://web.stanford.edu/~chadj/pon400.pdf)
 
-[Temperature]()
+### Temperature
 
-[Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#Temperature)
+[Data]()  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#Temperature)
 
 Source: Van de Vliert, E., Schwartz, S. H., Huismans, S. E., Hofstede, G., & Daan, S. (1999). Temperature, cultural masculinity, and domestic political violence: A cross-national study. Journal of Cross-Cultural Psychology, 30(3), 291-314. [Link](https://journals.sagepub.com/doi/10.1177/0022022199030003002)
 
-[Settler Mortality](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/geographic/settler_mortality.csv)
+### Settler Mortality
 
-[Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#mortality)
+[Data](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/geographic/settler_mortality.csv)  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#mortality)
 
 Source: Acemoglu, D., Johnson, S., & Robinson, J. A. (2001). The colonial origins of comparative development: An empirical investigation. American economic review, 91(5), 1369-1401. [Link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.91.5.1369)

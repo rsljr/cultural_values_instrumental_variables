@@ -1,3 +1,12 @@
+-   [Genetic](#genetic)
+-   [Language](#language)
+-   [Religion](#religion)
+-   [Behavior](#behavior)
+-   [Geographic](#geographic)
+
+Genetic
+-------
+
 [5-HTTLPR](#5HTTLPR)
 
 **N\_Studies**: Number of studies that authors used to find % S allele  
@@ -12,6 +21,9 @@ gene. Proceedings of the Royal Society B: Biological Sciences,
 1](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp4.pdf),
 [Appendix
 2](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp1.doc)
+
+Language
+--------
 
 [Pronoun Drop](#language1)
 
@@ -35,6 +47,9 @@ selected individuals from a population belong to different linguistic.
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., &
 Wacziarg, R. (2003). Fractionalization. Journal of Economic growth,
 8(2), 155-194.
+
+Religion
+--------
 
 [Religion - Guiso 2003](#Religion1)
 
@@ -60,7 +75,13 @@ Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R.
 (1999). The quality of government. The Journal of Law, Economics, and
 Organization, 15(1), 222-279.
 
-[Unpaid parking tickets](#ticket)
+Behavior
+--------
+
+[Unpaid parking tickets](#ticket) **Year\_Ticket\_Average**: Average
+ticket value  
+**Number\_Diplomats**: Number of diplomats for a givem Country in New
+York
 
 [Ethic and religion Fractionalization](#fractionalization)
 
@@ -78,6 +99,9 @@ Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., &
 Wacziarg, R. (2003). Fractionalization. Journal of Economic growth,
 8(2), 155-194.
 
+Geographic
+----------
+
 [Latitude](#latitude)
 
 **Latitude**: the absolute value of latitude in degrees divided by 90 to
@@ -94,9 +118,25 @@ journal of economics, 114(1), 83-116.
 
 [Temperature](#Temperature)
 
-**Temperature**: Average daytime temperature of the country’s capital
-city
+**Temperature\_Celcius**: Average daytime temperature of the country’s
+capital city
 
 Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries
 produce so much more output per worker than others?. The quarterly
 journal of economics, 114(1), 83-116.
+
+[Settler Mortality](#mortality)
+
+**Settler\_Mortality\_Estimate** Mortality is potential settler
+mortality, measured in terms of deaths per annum per 1,000 “mean
+strength” (raw mortality numbers are adjusted to what they would be if a
+force of 1,000 living people were kept in place for a whole year, e.g.,
+it is possible for this number to exceed 1,000 in episodes of extreme
+mortality as those who die are replaced with new arrivals). Sources and
+methods for mortality are described in Section III, subsection B, and in
+the unpublished Appendix (available from the authors; or see Acemoglu et
+al., 2000)
+
+Source: Acemoglu, D., Johnson, S., & Robinson, J. A. (2001). The
+colonial origins of comparative development: An empirical investigation.
+American economic review, 91(5), 1369-1401

@@ -9,7 +9,8 @@ output:
     toc: yes
     toc_depth: 4
 ---
-
+## Genetic  
+  
 [5-HTTLPR](#5HTTLPR)  
   
 **N_Studies**: Number of studies that authors used to find % S allele  
@@ -19,6 +20,9 @@ output:
 
 Source: Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of individualism–collectivism and the serotonin transporter gene. Proceedings of the Royal Society B: Biological Sciences, 277(1681), 529-537. [Appendix 1](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp4.pdf), [Appendix 2](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp1.doc)  
 
+
+## Language  
+  
 [Pronoun Drop](#language1)  
 
 **1PS**: Number of First Personal Pronoun. 1 indicates multiples 1PS, 0 otherwise  
@@ -32,6 +36,8 @@ Source: Kashima, E. S., & Kashima, Y. (1998). Culture and Language. Journal of C
 **Linguistic Fractionalization**: The probability that two randomly selected individuals from a population belong to different linguistic.
 
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2003). Fractionalization. Journal of Economic growth, 8(2), 155-194.   
+  
+## Religion  
   
 [Religion - Guiso 2003](#Religion1)  
   
@@ -53,8 +59,11 @@ Source: Guiso, L., Sapienza, P., & Zingales, L. (2003). People's opium? Religion
 
 Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. (1999). The quality of government. The Journal of Law, Economics, and Organization, 15(1), 222-279.
 
+## Behavior  
+  
 [Unpaid parking tickets](#ticket)
-
+**Year_Ticket_Average**: Average ticket value   
+**Number_Diplomats**: Number of diplomats for a givem Country in New York  
 
 [Ethic and religion Fractionalization](#fractionalization)  
 
@@ -65,6 +74,8 @@ Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. (1999). T
 Note: eb = Encyclopedia Brittanica, cia = CIA, sm = Scarrit and Mozaffar; lev = Levinson; wdm = World Directory of Minorities; census = national census data   
   
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2003). Fractionalization. Journal of Economic growth, 8(2), 155-194.   
+  
+## Geographic   
 
 [Latitude](#latitude)  
 
@@ -74,7 +85,12 @@ Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so muc
 
 [Temperature](#Temperature)  
 
-**Temperature**: Average daytime temperature of the country’s capital city 
+**Temperature_Celcius**: Average daytime temperature of the country’s capital city 
   
 Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so much more output per worker than others?. The quarterly journal of economics, 114(1), 83-116. 
 
+[Settler Mortality](#mortality)  
+
+**Settler_Mortality_Estimate** Mortality is potential settler mortality, measured in terms of deaths per annum per 1,000 “mean strength” (raw mortality numbers are adjusted to what they would be if a force of 1,000 living people were kept in place for a whole year, e.g., it is possible for this number to exceed 1,000 in episodes of extreme mortality as those who die are replaced with new arrivals). Sources and methods for mortality are described in Section III, subsection B, and in the unpublished Appendix (available from the authors; or see Acemoglu et al., 2000)  
+  
+Source: Acemoglu, D., Johnson, S., & Robinson, J. A. (2001). The colonial origins of comparative development: An empirical investigation. American economic review, 91(5), 1369-1401  
