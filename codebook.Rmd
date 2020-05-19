@@ -1,11 +1,13 @@
 ---
 title: "Cultural Values and Instrumental Variables - Codebook"
 author: "Ronei Leonel"
-output: 
+output:
+  md_document:
+    toc: yes
+    toc_depth: '4'
   html_document:
-    toc: true
+    toc: yes
     toc_depth: 4
-
 ---
 
 [5-HTTLPR](#5HTTLPR)  
