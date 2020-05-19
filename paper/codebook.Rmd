@@ -10,7 +10,7 @@ output:
     toc_depth: 4
 ---
   
-[5-HTTLPR](#5HTTLPR)  
+## [5-HTTLPR](#5HTTLPR)  
   
 **N_Studies**: Number of studies that authors used to find % S allele  
 **N**: Total Sample of studies  
@@ -18,9 +18,22 @@ output:
 **Perccent L**: % of L(ong) allele  
 
 Source: Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of individualism–collectivism and the serotonin transporter gene. Proceedings of the Royal Society B: Biological Sciences, 277(1681), 529-537. [Appendix 1](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp4.pdf), [Appendix 2](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frspb.2009.1650&file=rspb20091650supp1.doc)  
-
   
-[Pronoun Drop](#language1)  
+## [Genetic Distance](#distance)  
+
+**new_gendist_weighted**: It represents the expected genetic distance between two randomly selected individuals, one from each country  
+**new_relgendist_weighted_usa**: The genetic distance weighted between USA and a given country  
+**new_relgendist_weighted_uk**: The genetic distance weighted between UK and a given country  
+**new_gendist_plurality**: The genetic distance between the plurality groups of each country in a pair, defined as the groups with the largest shares of each country's population  
+**new_relgendist_plur_usa**: The genetic distance plurality between USA and a given country  
+**new_relgendist_plur_uk**: The genetic distance plurality between UK and a given country  
+**new_gendist_1500**: It represents the expected genetic distance between two randomly selected individuals, one from each country as populations were in AD 1500  
+**new_relgendist_1500_usa**: The genetic distance weighted between USA and a given country as populations were in AD 1500  
+**new_relgendist_1500_uk**: The genetic distance weighted between UK and a given country as populations were in AD 1500    
+
+Source: Spolaore, E., & Wacziarg, R. (2018). Ancestry and development: New evidence. Journal of Applied Econometrics, 33(5), 748-762.
+  
+## [Pronoun Drop](#language1)  
 
 **1PS**: Number of First Personal Pronoun. 1 indicates multiples 1PS, 0 otherwise  
 **2PS**: Number of Second Personal Pronoun. 1 indicates multiples 2PS, 0 otherwise  
@@ -28,13 +41,13 @@ Source: Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of i
   
 Source: Kashima, E. S., & Kashima, Y. (1998). Culture and Language. Journal of Cross-Cultural Psychology, 29(3), 461–486. doi:10.1177/0022022198293005
 
-[Linguistic Fractionalization](#language2)  
+## [Linguistic Fractionalization](#language2)  
   
 **Linguistic Fractionalization**: The probability that two randomly selected individuals from a population belong to different linguistic.
 
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2003). Fractionalization. Journal of Economic growth, 8(2), 155-194.   
   
-[Religion - Guiso 2003](#Religion1)  
+## [Religion - Guiso 2003](#Religion1)  
   
 **Catholic**: % of Catholic  
 **Protestant**:  % of Protestant  
@@ -47,7 +60,7 @@ Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R
 
 Source: Guiso, L., Sapienza, P., & Zingales, L. (2003). People's opium? Religion and economic attitudes. Journal of monetary economics, 50(1), 225-282.  
 
-[Religion - La Porta 1999](#Religion2)  
+## [Religion - La Porta 1999](#Religion2)  
 
 **Catholic**: % of Catholic in 1980  
 **Muslim**: % of Muslim in 1980  
@@ -55,11 +68,14 @@ Source: Guiso, L., Sapienza, P., & Zingales, L. (2003). People's opium? Religion
 Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. (1999). The quality of government. The Journal of Law, Economics, and Organization, 15(1), 222-279.
 
   
-[Unpaid parking tickets](#ticket)
+## [Unpaid parking tickets](#ticket)
+
 **Year_Ticket_Average**: Average ticket value   
 **Number_Diplomats**: Number of diplomats for a givem Country in New York  
 
-[Ethic and religion Fractionalization](#fractionalization)  
+Source: Fisman, R., & Miguel, E. (2007). Corruption, norms, and legal enforcement: Evidence from diplomatic parking tickets. Journal of Political economy, 115(6), 1020-1048.  
+
+## [Ethic and religion Fractionalization](#fractionalization)  
 
 **Source Ethnicity Data**: The source from the ethnicity data  
 **Date Ethnicity Data**: The year for the ethnicity data  
@@ -70,19 +86,19 @@ Note: eb = Encyclopedia Brittanica, cia = CIA, sm = Scarrit and Mozaffar; lev = 
 Source: Alesina, A., Devleeschauwer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2003). Fractionalization. Journal of Economic growth, 8(2), 155-194.   
 
 
-[Latitude](#latitude)  
+## [Latitude](#latitude)  
 
 **Latitude**: the absolute value of latitude in degrees divided by 90 to place it on a 0 to 1 scale. The latitude of each country was obtained from the Global Demography Project at U.C. Santa Barbara (http://www.ciesin.org/datasets/gpw/globldem.doc.html), discussed by Tobler, Deichmann, Gottsegen and Maloy (1995). These location data correspond to the center of the county or province within a country that contains the largest number of people  
   
 Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so much more output per worker than others?. The quarterly journal of economics, 114(1), 83-116.  
 
-[Temperature](#Temperature)  
+## [Temperature](#Temperature)  
 
 **Temperature_Celcius**: Average daytime temperature of the country’s capital city 
   
 Source: Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so much more output per worker than others?. The quarterly journal of economics, 114(1), 83-116. 
 
-[Settler Mortality](#mortality)  
+## [Settler Mortality](#mortality)  
 
 **Settler_Mortality_Estimate** Mortality is potential settler mortality, measured in terms of deaths per annum per 1,000 “mean strength” (raw mortality numbers are adjusted to what they would be if a force of 1,000 living people were kept in place for a whole year, e.g., it is possible for this number to exceed 1,000 in episodes of extreme mortality as those who die are replaced with new arrivals). Sources and methods for mortality are described in Section III, subsection B, and in the unpublished Appendix (available from the authors; or see Acemoglu et al., 2000)  
   

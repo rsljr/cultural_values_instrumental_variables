@@ -1,8 +1,8 @@
 # Instrumental variables and National Cultural values
 
-Nash and Patel's working paper reviews the literature about instrumental variables in the cultural values research, offering a comprehensive overview about each instrumental variable use and its pros and cons. You can read the paper [here]() or [here](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/paper/Nash_and_Patel_overcoming_the_e_word.pdf).
+Nash and Patel's paper reviews the literature about instrumental variables in the national cultural values literature, offering a discussion about each instrumental variable and its application. You can read the paper [here](https://onlinelibrary.wiley.com/doi/full/10.1111/fima.12248) or [here](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/paper/Nash_and_Patel_overcoming_the_e_word.pdf).
 
-I organized this repository to facilitate access and avoid datasets to become unavailable due to broken links. Each dataset has a link to the source or the original study.
+I organized this repository to facilitate access to datasets used to create the instrumental variables discussed by Nash and Patel (2019) and also avoid that these datasets become unavailable. Each dataset has a link to the original study. Nash and Patel's table 9 reports how each institutional variable maps into cultural values and what studies have applied them.
 
 ## Genetic Factors
 
@@ -14,7 +14,9 @@ Source: Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of i
 
 ### Genetic Distance
 
-http://sites.tufts.edu/enricospolaore/research/
+[Data](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/datasets/genetic/genetic_distance.csv)  -  [Variable description](https://github.com/rsljr/cultural_values_instrumental_variables/blob/master/codebook.md#distance)
+
+Source: Spolaore, E., & Wacziarg, R. (2018). Ancestry and development: New evidence. Journal of Applied Econometrics, 33(5), 748-762.[Link](http://sites.tufts.edu/enricospolaore/research/)
 
 ## Religion
 
