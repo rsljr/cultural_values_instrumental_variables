@@ -1,0 +1,210 @@
+﻿Country Name,Country Code,Catholic,Muslim
+Afghanistan,afg,0,99.3
+Albania,alb,0,20.5
+Algeria,dza,0.5,99.1
+american samoa,asm,20.6,0
+andorra,ado,99.1,0
+Angola,ago,68.7,0
+antigua and barbu,atg,10.2,0.4
+Argentina,arg,91.6,0.2
+Armenia,arm,0,0
+aruba,abw,86,0
+Australia,aus,29.6,0.2
+Austria,aut,88.8,0.6
+Azerbaijan,aze,0,93.4
+Bahamas,bhs,25.5,0
+Bahrain,bhr,0.8,95
+Bangladesh,bgd,0.2,85.9
+Barbados,brb,5.9,0.2
+Belarus,blr,14,0
+Belgium,bel,90,1.1
+Belize,blz,66.8,0
+Benin,ben,18.5,15.2
+bermuda,bmu,18.6,0
+Bhutan,btn,0,5
+Bolivia,bol,92.5,0
+Bosnia and Herzegovina,bih,15,40
+Botswana,bwa,9.4,0
+Brazil,bra,87.8,0.1
+brunei,brn,3.2,64.2
+Bulgaria,bgr,0.5,10.6
+Burkina Faso,bfa,9,43
+Burundi,bdi,78.3,0.9
+Cambodia,khm,0.1,2.4
+Cameroon,cmr,35,22
+Canada,can,46.6,0.6
+Cabo Verde,cpv,95.9,0
+cayman islands,cym,2.6,0
+Central African Republic,caf,33.1,3.2
+Chad,tcd,21,44
+channel island,chi,17.5,0
+Chile,chl,82.1,0
+China,chn,0,2.4
+Colombia,col,96.6,0.2
+Comoros,com,0.1,99.7
+congo,cog,53.9,0.4
+Costa Rica,cri,90.5,0
+Côte d'Ivoire,civ,18.5,24
+Croatia,hrv,76.5,1.2
+Cuba,cub,32,0
+Cyprus,cyp,1.3,18.5
+Czech Republic,cze,39.2,0
+Denmark,dnk,0.6,0.2
+Djibouti,dji,6.7,90.6
+Dominica,dma,89.8,0
+Dominican Republic,dom,96.6,0
+Ecuador,ecu,96.4,0
+Egypt,egy,0.2,81.8
+El Salvador,slv,96.2,0
+Equatorial Guinea,gnq,71.3,0.5
+Eritrea,eri,0,33
+Estonia,est,2,0.01
+Ethiopia,eth,0.7,31.4
+faeroe islands,fro,0.1,0
+Fiji,fji,9,7.8
+Finland,fin,0.1,0
+France,fra,76.4,3
+french guiana,guf,87,1
+french polynes,pyf,39.4,0
+Gabon,gab,65.2,0.8
+Gambia,gmb,1.9,84.8
+Georgia,geo,1,11
+Germany,deu,35,0.02
+Ghana,gha,18.7,15.7
+Greece,grc,0.4,1.5
+greenland,grl,0.1,0
+grenada,grd,64.4,0.2
+guadeloupe,glp,95.1,1.1
+guam,gum,79.5,0
+Guatemala,gtm,94,0
+Guinea,gin,1.1,69
+Guinea-Bissau,gnb,10.2,38.3
+Guyana,guy,18,9
+Haiti,hti,82.6,0
+Honduras,hnd,95.8,0.1
+Hong Kong SAR,hkg,7.9,0.5
+Hungary,hun,53.9,0
+Iceland,isl,0.7,0
+India,ind,1.3,11.6
+Indonesia,idn,2.7,43.4
+Iran,irn,0.1,97.9
+Iraq,irq,1.8,95.8
+Ireland,irl,95.3,0
+isle of man,imy,10,0
+Israel,isr,1,8
+Italy,ita,83.2,0.1
+Jamaica,jam,9.6,0.1
+Japan,jpn,0.6,0
+Jordan,jor,1.7,93
+Kazakhstan,kaz,3,47
+Kenya,ken,26.4,6
+Kiribati,kir,49,0
+"Korea, North ",prk,0,0
+"Korea, South",kor,3.9,0
+Kuwait,kwt,2.1,95.1
+Kyrgyz Republic,kgz,0,70
+Lao P.D.R.,lao,0.8,1
+Latvia,lva,18.2,0.01
+Lebanon,lbn,36.2,37.4
+Lesotho,lso,43.5,0
+Liberia,lbr,1.9,21.2
+Libya,lby,0.2,98.1
+Liechtenstein,lie,87.9,0
+Lithuania,ltu,80,0
+Luxembourg,lux,93,0
+Macau,mac,8.8,0
+Macedonia,mkd,0.5,30.1
+Madagascar,mdg,26,1.7
+Malawi,mwi,27.6,16.2
+Malaysia,mys,2.8,49.4
+Maldives,mdv,0.1,99.9
+Mali,mli,0.7,80
+Malta,mlt,97.3,0
+marshall islan,mhl,0,0
+martinique,mtq,95.5,0.1
+Mauritania,mrt,0.3,99.4
+Mauritius,mus,31.2,16.4
+mayotte,myt,0.9,98.8
+Mexico,mex,94.7,0
+Micronesia,fsm,45.6,0
+Moldova,mda,0,0
+monaco,mco,90.7,0
+Mongolia,mng,0,1.4
+Morocco,mar,0.2,99.4
+Mozambique,moz,31.4,13
+myanmar,mmr,0.9,3.6
+Namibia,nam,19.1,0
+Nepal,npl,0,3
+Netherlands,nld,42.6,1
+netherlands antil,ant,87.2,0.1
+new caledonia,ncl,72.5,4
+New Zealand,nzl,18.7,0
+Nicaragua,nic,94.7,0
+Niger,ner,0.2,87.9
+Nigeria,nga,12.1,45
+Norway,nor,0.3,0.1
+Oman,omn,0.1,98.9
+Pakistan,pak,0.5,96.8
+Panama,pan,85,4.5
+Papua New Guinea,png,32.8,0
+Paraguay,pry,96,0
+Peru,per,95.1,0
+Philippines,phl,84.1,4.3
+Poland,pol,81,0
+Portugal,prt,94.1,0
+puerto rico,pri,91.5,0
+Qatar,qat,1.2,92.4
+reunion,reu,96.3,2.2
+Romania,rom,4.9,1.2
+Russia,rus,1.4,11.3
+Rwanda,rwa,55.6,8.6
+São Tomé and Príncipe,stp,92.4,0
+Saudi Arabia,sau,0.1,98.8
+Senegal,sen,5.6,91
+Seychelles,syc,89.3,0.3
+Sierra Leone,sle,2.2,39.4
+Singapore,sgp,4.7,17.4
+Slovak Republic,svk,74,0
+Slovenia,svn,71.4,1.5
+Solomon Islands,slb,19.1,0
+somalia,som,0,99.8
+South Africa,zaf,10.4,1.3
+Spain,esp,96.9,0
+Sri Lanka,lka,6.8,7.2
+st. kitts and nev,kna,8.2,0
+Saint. Lucia,lca,88.3,0
+Saint. Vincent and the Grenadines,vct,19.4,0
+Sudan,sdn,4.4,73
+Suriname,sur,36,13
+Swaziland,swz,10.8,0.1
+Sweden,swe,1.4,0.1
+Switzerland,che,52.8,0.3
+Syria,syr,1.3,89.6
+Taiwan ,twn,1.5,0.5
+Tajikistan,tjk,0,85
+Tanzania,tza,28.2,32.5
+Thailand,tha,0.4,3.9
+Togo,tgo,29.3,17
+Tonga,ton,17.9,0
+Trinidad and Tobago,tto,35.8,6.5
+Tunisia,tun,0.1,99.4
+Turkey,tur,0.1,99.2
+Turkmenistan,tkm,0,87
+Uganda,uga,49.6,6.6
+Ukraine,ukr,0,0
+United Arab Emirates,are,0.4,94.9
+United Kingdom,gbr,13.1,1.4
+United States,usa,30,0.8
+Uruguay,ury,59.5,0
+Uzbekistan,uzb,0,88
+Vanuatu,vut,16.9,0
+Venezuela,ven,94.8,0
+Vietnam,vnm,3.9,1
+virgin islands,vir,33.6,0
+west bank and,wbg,1.1,94.8
+western samoa,wsm,21.3,0
+Yemen,yem,0,99.5
+"yugoslavia, fr",yug,4,19
+zaire,zar,48.4,1.4
+Zambia,zmb,26.2,0.3
+Zimbabwe,zwe,14.4,0.9
