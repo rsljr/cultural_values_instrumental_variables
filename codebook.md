@@ -60,8 +60,8 @@ Source: La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R.
 (1999). The quality of government. The Journal of Law, Economics, and
 Organization, 15(1), 222-279.
 
-[Unpaid parking tickets](#ticket) **Year\_Ticket\_Average**: Average
-ticket value  
+[Unpaid parking tickets](#ticket) 
+**Year\_Ticket\_Average**: Average ticket value  
 **Number\_Diplomats**: Number of diplomats for a givem Country in New
 York
 
